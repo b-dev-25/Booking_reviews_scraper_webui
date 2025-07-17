@@ -2,7 +2,9 @@
 
 A Python tool for fetching and analyzing hotel reviews from Booking.com with an intuitive Streamlit web interface and command-line support. Designed for both technical and non-technical users.
 
-![Streamlit UI Screenshot](https://via.placeholder.com/800x400?text=Booking+Reviews+Scraper+Screenshot)
+<img width="1599" height="739" alt="Capture" src="https://github.com/user-attachments/assets/b0f3979e-5650-4308-9744-1d8b6abe8906" />
+
+<img width="1600" height="735" alt="Capture1" src="https://github.com/user-attachments/assets/79c618df-aaf1-4dcc-bbc4-d3dee5325d64" />
 
 ---
 
