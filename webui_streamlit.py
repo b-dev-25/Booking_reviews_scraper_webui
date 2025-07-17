@@ -628,6 +628,17 @@ with st.sidebar:
         if refresh_btn:
             refresh_data()
             st.rerun()
+    
+    # Add support section at the bottom of the sidebar
+    st.divider()
+    st.write("## Support This Project")
+    st.markdown("""
+    If you find this tool useful, please consider supporting its development:
+    
+    [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Bassel_F)
+
+    [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/BasselFathy)
+    """)
 
 # --- Main content area ---
 
