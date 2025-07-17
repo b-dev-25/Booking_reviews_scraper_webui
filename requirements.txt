@@ -1,0 +1,15 @@
+# Python 3.8+ required
+httpx
+sqlalchemy
+sqlalchemy[asyncio]
+pydantic
+loguru
+asyncio
+demjson3
+typer
+rich
+pytest
+sqliteio
+pandas
+streamlit
+plotly

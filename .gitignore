@@ -1,0 +1,54 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*$py.class
+
+# Logs and databases
+logs/
+*.log
+database/*.db
+database/*.db-shm
+database/*.db-wal
+
+# output files
+output/
+
+# Virtual environments
+venv/
+env/
+ENV/
+*.env
+
+# Testing
+tests/
+.coverage
+.pytest_cache/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Archive files
+*.rar
+*.zip
+*.tar
+*.gz
+
+# other files
+*.bak
+*.tmp
+*.toml
+Dockerfile
+.coverage
+.ps1
